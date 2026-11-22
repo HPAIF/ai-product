@@ -24,7 +24,7 @@ solution tree placement.
    see it. No metric fits → note that the metric set may be missing something.
 6. **Risks:** for each of the four risks, what we believe, how confident, and the cheapest test of
    the riskiest one (a conversation, a prototype, a fake door, a concierge test). Feasibility →
-   exact question for the `cto` member; viability (pricing, legal, cost) → `accountant` / `lawyer`;
+   exact question, asked directly (RULES: "Ask colleagues directly"), for the `cto` member; viability (pricing, legal, cost) → `accountant` / `lawyer`;
    abuse / data exposure → `security`.
 7. **Appetite:** propose a size the problem deserves (e.g. small: 1–2 weeks; big: up to 6 weeks)
    based on its value, not on an estimate of a solution. The founder sets it.
