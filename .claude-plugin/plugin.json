@@ -1,6 +1,6 @@
 {
   "name": "ai-product",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AI Team in-house product manager for founders: synthesises customer research into jobs-to-be-done and opportunity solution trees, frames problems, writes specs and Shape Up pitches, prioritises the roadmap (RICE, Now/Next/Later), defines North Star and input metrics, and keeps an evidence-linked feedback log in a private workspace. Evidence over opinion; never invents customers, quotes or numbers; the founder decides.",
   "author": {
     "name": "HaykazXP",
