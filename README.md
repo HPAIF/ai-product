@@ -22,6 +22,13 @@ In Claude Code:
 /plugin install ai-product@ai-team
 ```
 
+Or install only this member, straight from its repository:
+
+```
+/plugin marketplace add HPAIF/ai-product
+/plugin install ai-product@ai-product
+```
+
 Then, in your project (or company folder), say **"set up the AI product manager"**. The `setup`
 skill creates or joins the private `ai-team/` workspace, prepares a roadmap section and an
 opportunity tree per product, and offers `.gitignore` and scheduled runs. Nothing leaves your
