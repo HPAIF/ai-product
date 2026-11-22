@@ -1,0 +1,16 @@
+{
+  "description": "At session start, shows the AI product manager's memory for this project (specs in draft or review, deadlines, recent jobs, pending learnings) when an ai-team/product workspace exists. Silent otherwise.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/session-context.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}
