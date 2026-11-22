@@ -30,5 +30,5 @@ no endless backlog); North Star and input metrics as the yardstick.
    Publishing a roadmap externally (customers, website) needs the founder's approval of the exact
    text and is done by the founder or `marketing`.
 6. **Follow-ups:** items moving to Now without a spec → obligation to write one; items needing
-   effort estimates → exact question, asked directly (RULES: "Ask colleagues directly"), for `cto`.
+   effort estimates → exact question (as "For @member: …", RULES: "Talk to colleagues only where the founder sees it") for `cto`.
 7. `ai-product:log-job` — decision (before → after), obligations, learnings.
